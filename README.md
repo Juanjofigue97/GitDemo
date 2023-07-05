@@ -5,3 +5,4 @@ This is a demo app/aplication for the Git course. Sample Repository
 * Add new fectures 
 * Fix the bugs
 
+Visual Code Commit
